@@ -42,8 +42,9 @@ img {
     text-align: center;
   }
 
-  .card2, .card4, .card6 {
-    margin-top: 4rem;
+  .card4 {
+    border: 2rem red solid;
+    margin-top: 10rem;
   }
 }
 @media only screen and (min-width: 1000px) {
@@ -61,14 +62,6 @@ img {
   .container-header h3 {
     text-align: left;
   }
-
-  .card4, .card6 {
-    margin-top: 0px;
-  }
-
-  .card5 {
-    margin-top: 5rem;
-  }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=stle.css.map */
